@@ -3,7 +3,7 @@ package TestScript;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
-public class DemoScript {
+public class DemoScriptTest {
 
 	@Test
 	public void run()
