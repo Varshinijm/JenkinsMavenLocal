@@ -9,6 +9,6 @@ public class DemoScriptTest {
 	public void run()
 	{
 		ChromeDriver driver=new ChromeDriver();
-		driver.ge("https://www.meesho.com/");
+		driver.get("https://www.meesho.com/");
 	}
 }
